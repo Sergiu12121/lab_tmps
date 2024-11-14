@@ -92,7 +92,7 @@
           self.inventory.add_book(book)
   ```
 
-## Conclusions / Screenshots / Results
+## Conclusions
 
 In this project, I was able to use multiple design patterns to simplify the bookstore system and make it more modular. Each pattern solved a specific problem, like controlling the inventory instance, simplifying book creation, adapting to different report formats, and providing a straightforward interface for users.
 
